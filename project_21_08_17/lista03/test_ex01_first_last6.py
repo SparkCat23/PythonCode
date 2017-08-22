@@ -6,8 +6,7 @@
 # first_last6([1, 2, 6]) -> True
 # first_last6([6, 1, 2, 3]) -> True
 # first_last6([3, 2, 1]) -> False
-def first_last6(nums):
-  return
+from  ex01 import first_last6
 
 def test_ex01():
   print ('First_last6')
