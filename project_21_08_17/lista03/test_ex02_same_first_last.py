@@ -7,8 +7,7 @@
 # same_first_last([1, 2, 3]) -> False
 # same_first_last([1, 2, 3, 1]) -> True
 # same_first_last([1, 2, 1]) -> True
-def same_first_last(nums):
-  return 
+from ex02 import same_first_last
 
 def test_ex02():
   print ('Same_first_last')

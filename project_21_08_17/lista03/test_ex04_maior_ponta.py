@@ -7,8 +7,7 @@
 # obs.: não é o maior de todos, mas entre as duas pontas
 # maior_ponta([1, 2, 3]) -> [3, 3, 3]
 # maior_ponta([1, 3, 2]) -> [2, 2, 2]
-def maior_ponta(nums):
-  return
+from ex04 import maior_ponta
 
 def test_ex04():
   print ('Maior_ponta')
