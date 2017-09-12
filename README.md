@@ -1,2 +1,2 @@
 # PythonCode
-Repositorio para guardar códigos em Pythin
+Repositorio para guardar códigos em Python
